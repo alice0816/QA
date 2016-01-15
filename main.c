@@ -21,3 +21,11 @@ if __name__ == '__main__':
 	
 	 c=Person()
     print c.sayhello（"bill"）  这样子也不行
+
+Hi feng,
+
+Could you read the source code at first? You haven't init a object useing a class,Why not make a
+change? Thanks.
+
+BRs
+Wufeng
